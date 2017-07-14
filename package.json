@@ -1,7 +1,7 @@
 {
-  "name": "react-redux-material_ui-boilerplate",
+  "name": "Railroad19_kata",
   "version": "1.0.0",
-  "description": "A boilerplate for React + Redux + Material UI + ES6 syntax application",
+  "description": "Rapid prototype",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
