@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # react-redux-material_ui-boilerplate
 A boilerplate for React + Redux + Material UI + ES6 syntax applications. This boilerplate includes the following tools and frameworks:
 
@@ -43,3 +44,7 @@ To put compiled files into `static` directory, type the following command.
 $ npm run build
 ```
 
+=======
+# rr19-kata
+RailRoad 19 kata/challenge
+>>>>>>> 14fdbd89f9a274719eccbde934f2529932928442
